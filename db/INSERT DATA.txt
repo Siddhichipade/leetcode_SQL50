@@ -1,0 +1,4 @@
+INSERT INTO students (student_id, name, age, course)
+VALUES (1, 'John Doe', 20, 'Computer Science'),
+       (2, 'Jane Smith', 22, 'Electronics'),
+       (3, 'Mike Johnson', 21, 'IT');
